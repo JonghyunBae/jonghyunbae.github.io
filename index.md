@@ -17,17 +17,17 @@ flash, solid state drive (SSD), and user-level storage systems.
 
 ## Education
 
-### Seoul National University   
+**Seoul National University** (Seoul, Korea)   
 Ph.D. in Computer Science and Engineering (_Sep 2017 -- Feb 2022_)   
 **Advisor**: [Jae W. Lee](https://iamjaelee.github.io/www/)   
 **Dissertation**: A Large-Batch, High-Throughput Training System for Deep Neural Networks
 
-### Sungkyunkwan University   
+**Sungkyunkwan University** (Suwon, Korea)   
 M.S. in Electronic, Electrical and Computer Engineering (_Mar 2015--Aug 2017_)   
 **Advisor**: [Jae W. Lee](https://iamjaelee.github.io/www/) and [Jaehyuk Choi](https://sites.google.com/view/eemix/people#h.p_ID_53)    
 **Dissertation**: Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks
 
-### Sungkyunkwan University   
+**Sungkyunkwan University** (Suwon, Korea)   
 B.S. in Semiconductor Systems Engineering (_Mar 2009--Feb 2015_)
 
 ---
@@ -36,31 +36,28 @@ B.S. in Semiconductor Systems Engineering (_Mar 2009--Feb 2015_)
 
 ### International Conferences
 **[USENIX ATC '21]** ASAP: Fast Mobile Application Switch via Adaptive Prepaging   
-Sam Son, Seung Yul Lee, Yunho Jin, <b>Jonghyun Bae</b>, Jinkyu Jeong, Tae Jun Ham, Jae W. Lee, and Hongil Yoon
+Sam Son, Seung Yul Lee, Yunho Jin, **Jonghyun Bae**, Jinkyu Jeong, Tae Jun Ham, Jae W. Lee, and Hongil Yoon   
 _USENIX Annual Technical Conference (ATC), Virtual, 2021_   
 _Acceptance rate: 64/341=23(%)_
 
 
-<b>[FAST '21]</b>
-<span style="font-weight:500">Behemoth: A Flash-centric Training Accelerator for Extreme-scale DNNs</span><br>
-Shine Kim\*, Yunho Jin\*, Gina Sohn, <b>Jonghyun Bae</b>, Tae Jun Ham, and Jae W. Lee<br>
-<i>USENIX Conference on File and Storage Technologies (FAST), Virtual, 2021</i><br>
-<i>Acceptance rate: 28/130=21(%) </i><br>
-\* Equal Contributions<br>
+**[FAST '21]** Behemoth: A Flash-centric Training Accelerator for Extreme-scale DNNs   
+Shine Kim\*, Yunho Jin\*, Gina Sohn, **Jonghyun Bae**, Tae Jun Ham, and Jae W. Lee   
+_USENIX Conference on File and Storage Technologies (FAST), Virtual, 2021_   
+_Acceptance rate: 28/130=21(%)_   
+\* Equal Contributions
 
 
-<b>[FAST '21]</b>
-<span style="font-weight:500">FlashNeuron: SSD-Enabled Large-Batch Training of Very Deep Neural Networks</span><br>
-<b>Jonghyun Bae</b>, Jongsung Lee, Yunho Jin, Sam Son, Shine Kim, Hakbeom Jang, Tae Jun Ham, and Jae W. Lee<br>
-<i>USENIX Conference on File and Storage Technologies (FAST), Virtual, 2021</i><br>
-<i>Acceptance rate: 28/130=21(%) </i><br>
+**[FAST '21]** FlashNeuron: SSD-Enabled Large-Batch Training of Very Deep Neural Networks   
+**Jonghyun Bae**, Jongsung Lee, Yunho Jin, Sam Son, Shine Kim, Hakbeom Jang, Tae Jun Ham, and Jae W. Lee   
+_USENIX Conference on File and Storage Technologies (FAST), Virtual, 2021_   
+_Acceptance rate: 28/130=21(%)_
 
 
-<b>[HPCA '21]</b>
-<span style="font-weight:500">Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling</span><br>
-Young H. Oh, Seonghak Kim, Yunho Jin, Sam Son, <b>Jonghyun Bae</b>, Jongsung Lee, Yeonhong Park, Dong Uk Kim, Tae Jun Ham, and Jae W. Lee<br>
-<i>IEEE International Symposium on High Performance Computer Architecture (HPCA), Seoul, Korea, 2021</i><br>
-<i>Acceptance rate: 63/258=24(%) </i><br>
+**[HPCA '21]** Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling   
+Young H. Oh, Seonghak Kim, Yunho Jin, Sam Son, **Jonghyun Bae**, Jongsung Lee, Yeonhong Park, Dong Uk Kim, Tae Jun Ham, and Jae W. Lee   
+_IEEE International Symposium on High Performance Computer Architecture (HPCA), Seoul, Korea, 2021_   
+_Acceptance rate: 63/258=24(%)_
 
 
 <b>[ISCA '20]</b>
