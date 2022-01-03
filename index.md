@@ -18,19 +18,17 @@ flash, solid state drive (SSD), and user-level storage systems.
 ## Education
 
 ### Seoul National University   
-Ph.D. in Computer Science and Engineering   
-_Sep 2017 -- Feb 2022_   
+Ph.D. in Computer Science and Engineering (_Sep 2017 -- Feb 2022_)   
 **Advisor**: [Jae W. Lee](https://iamjaelee.github.io/www/)   
 **Dissertation**: A Large-Batch, High-Throughput Training System for Deep Neural Networks
 
-###Sungkyunkwan University   
-M.S. in Electronic, Electrical and Computer Engineering   
-_Mar 2015--Aug 2017_   
+### Sungkyunkwan University   
+M.S. in Electronic, Electrical and Computer Engineering (_Mar 2015--Aug 2017_)   
 **Advisor**: [Jae W. Lee](https://iamjaelee.github.io/www/) and [Jaehyuk Choi](https://sites.google.com/view/eemix/people#h.p_ID_53)    
 **Dissertation**: Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks
 
-###Sungkyunkwan University   
-B.S. in Semiconductor Systems Engineering (Mar 2009--Feb 2015)
+### Sungkyunkwan University   
+B.S. in Semiconductor Systems Engineering (_Mar 2009--Feb 2015_)
 
 ---
 
