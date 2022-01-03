@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ### Bio
 
-Jonghyun Bae ~~is~~was a Ph.D student in the Department of Computer Science
+Jonghyun Bae ~~is currently~~ was a Ph.D student in the Department of Computer Science
 and Engineering at Seoul National University. He received an M.S in Electronic,
 Electrical, and Computer Engineering in 2017. and B.S in Semiconductor Systems
 Engineering in 2015 -- both from Sungkyunkwan University. His current research
