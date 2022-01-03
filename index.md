@@ -60,53 +60,46 @@ _IEEE International Symposium on High Performance Computer Architecture (HPCA), 
 _Acceptance rate: 63/258=24(%)_
 
 
-<b>[ISCA '20]</b>
-<span style="font-weight:500">A Case for Hardware-based Demand Paging</span><br>
-Gyusun Lee\*, Wenjing Jin\*, Wonsuk Song, Jeonghun Gong, <b>Jonghyun Bae</b>, Tae Jun Ham, Jae W. Lee, and Jinkyu Jeong<br>
-<i>ACM/IEEE International Symposium on Computer Architecture (ISCA), Valencia, Spain, 2020</i><br>
-<i>Acceptance rate: 77/428=18(%) </i><br>
-\* Equal Contributions<br>
+**[ISCA '20]** A Case for Hardware-based Demand Paging   
+Gyusun Lee\*, Wenjing Jin\*, Wonsuk Song, Jeonghun Gong, **Jonghyun Bae**, Tae Jun Ham, Jae W. Lee, and Jinkyu Jeong   
+_ACM/IEEE International Symposium on Computer Architecture (ISCA), Valencia, Spain, 2020_   
+_Acceptance rate: 77/428=18(%)_   
+\* Equal Contributions
 
 
-<b>[USENIX ATC '19]</b>
-<span style="font-weight:500">Practical Erase Suspension for Modern Low-latency SSD</span><br>
-Shine Kim, <b>Jonghyun Bae</b>, Hakbeom Jang, Wenjing Jin, Jeonghun Gong, Seungyeon Lee, Tae Jun Ham, and Jae W. Lee<br>
-<i>USENIX Annual Technical Conference (ATC), Renton, WA, 2019</i>
+**[USENIX ATC '19]** Practical Erase Suspension for Modern Low-latency SSD   
+Shine Kim, **Jonghyun Bae**, Hakbeom Jang, Wenjing Jin, Jeonghun Gong, Seungyeon Lee, Tae Jun Ham, and Jae W. Lee   
+_USENIX Annual Technical Conference (ATC), Renton, WA, 2019_   
 
 
-<b>[BigData '17]</b>
-<span style="font-weight:500">Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks</span><br>
-<b>Jonghyun Bae</b>\*, Hakbeom Jang\*, Wenjing Jin, Jun Heo, Jaeyoung Jang, Joo-Young Hwang, Sangyeun Cho, and Jae W. Lee<br>
-<i>IEEE International Conference on Big Data (BigData), Boston, MA, December 2017</i><br>
-\* Equal Contributions<br>
+**[BigData '17]** Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks   
+**Jonghyun Bae**\*, Hakbeom Jang\*, Wenjing Jin, Jun Heo, Jaeyoung Jang, Joo-Young Hwang, Sangyeun Cho, and Jae W. Lee   
+_IEEE International Conference on Big Data (BigData), Boston, MA, December 2017_   
+\* Equal Contributions
 
 
-<b>[UseR!-Poster '14]</b>
-<span style="font-weight:500">RIGHT: An HTML Canvas and JavaScript-based Interactive Data Visualization Package for Linked Graphics</span><br>
-ChungHa Sung, <u>JongHyun Bae</u>, SangGi Hong, TaeJoon Song, Jae W. Lee, and Junghoon Lee<br>
-<i>The R User Conference, Los Angeles, CA, July 2014</i>
+**[UseR!-Poster '14]** RIGHT: An HTML Canvas and JavaScript-based Interactive Data Visualization Package for Linked Graphics   
+ChungHa Sung, **JongHyun Bae**, SangGi Hong, TaeJoon Song, Jae W. Lee, and Junghoon Lee   
+_The R User Conference, Los Angeles, CA, July 2014_
 
 
 
 ### International Journals
-<b>[IEEE Micro '19]</b>
-<span style="font-weight:500">SSDStreamer: Specializing I/O Stack for Large-Scale Machine Learning</span><br>
-<b>Jonghyun Bae</b>, Hakbeom Jang, Jeonghun Gong, Wenjing Jin, Shine Kim, Jaeyoung Jang, Tae Jun Ham, Jinkyu Jeong, and Jae W. Lee <br>
-<i>IEEE Micro, Sept/Oct 2019</i>
+**[IEEE Micro '19]** SSDStreamer: Specializing I/O Stack for Large-Scale Machine Learning   
+**Jonghyun Bae**, Hakbeom Jang, Jeonghun Gong, Wenjing Jin, Shine Kim, Jaeyoung Jang, Tae Jun Ham, Jinkyu Jeong, and Jae W. Lee   
+_IEEE Micro, Sept/Oct 2019_
 
 
-<b>[IEICE TIS '19]</b>
-<span style="font-weight:500">Eager Memory Managerment for In-Memory Data Analytics</span><br>
-Hakbeom Jang, <b>Jonghyun Bae</b>, Tae Jun Ham, and Jae W. Lee<br>
-<i>IEICE Transactions on Information and Systems, 2018</i>
+**[IEICE TIS '19]** Eager Memory Managerment for In-Memory Data Analytics   
+Hakbeom Jang, **Jonghyun Bae**, Tae Jun Ham, and Jae W. Lee   
+_IEICE Transactions on Information and Systems, 2018_
 
 
 
 ### International Workshops
-<b>[Spark Summit East '16]</b>
-<span style="font-weight:500">ggplot2.SparkR: Rebooting ggplot2 for Scalable Big Data Visualization</span><br>
-<b>Jonghyun Bae</b>, Sangoh Jeong, Wenjing Jin, and Jae W. Lee<br>
-<i>Spark Summit East, New York City, New York, February 2016</i>
+**[Spark Summit East '16]** ggplot2.SparkR: Rebooting ggplot2 for Scalable Big Data Visualization   
+**Jonghyun Bae**, Sangoh Jeong, Wenjing Jin, and Jae W. Lee   
+_Spark Summit East, New York City, New York, February 2016_
 
 ---
 
