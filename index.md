@@ -10,23 +10,26 @@ Jonghyun Bae ~~is currently~~ was a Ph.D student in the Department of Computer S
 and Engineering at Seoul National University. He received an M.S in Electronic,
 Electrical, and Computer Engineering in 2017. and B.S in Semiconductor Systems
 Engineering in 2015 -- both from Sungkyunkwan University. His current research
-interests include high-performance training of DNNs and high-throughput big data analytics.
+interests include high-performance DNN training, high-performance big data analytics,
+flash, solid state drive (SSD), and user-level storage systems.
 
 ---
 
 ## Education
 
-**Seoul National University**   
-Ph.D. in Computer Science and Engineering (Sep 2017 -- Feb 2022)   
+### Seoul National University   
+Ph.D. in Computer Science and Engineering   
+__Sep 2017 -- Feb 2022__   
 **Advisor**: [Jae W. Lee](https://iamjaelee.github.io/www/)   
 **Dissertation**: A Large-Batch, High-Throughput Training System for Deep Neural Networks
 
-**Sungkyunkwan University**   
-M.S. in Electronic, Electrical and Computer Engineering (Mar 2015--Aug 2017)   
-**Advisor**: [Jae W. Lee](https://iamjaelee.github.io/www/) and [Jaehyuk Choi](https://sites.google.com/view/eemix/people#h.p_ID_53)
+###Sungkyunkwan University   
+M.S. in Electronic, Electrical and Computer Engineering   
+__Mar 2015--Aug 2017__   
+**Advisor**: [Jae W. Lee](https://iamjaelee.github.io/www/) and [Jaehyuk Choi](https://sites.google.com/view/eemix/people#h.p_ID_53)    
 **Dissertation**: Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks
 
-**Sungkyunkwan University**   
+###Sungkyunkwan University   
 B.S. in Semiconductor Systems Engineering (Mar 2009--Feb 2015)
 
 ---
@@ -34,11 +37,10 @@ B.S. in Semiconductor Systems Engineering (Mar 2009--Feb 2015)
 ## Publications
 
 ### International Conferences
-<b>[USENIX ATC '21]</b>
-<span style="font-weight:500">ASAP: Fast Mobile Application Switch via Adaptive Prepaging</span><br>
-Sam Son, Seung Yul Lee, Yunho Jin, <b>Jonghyun Bae</b>, Jinkyu Jeong, Tae Jun Ham, Jae W. Lee, and Hongil Yoon<br>
-<i>USENIX Annual Technical Conference (ATC), Virtual, 2021</i>
-<i>Acceptance rate: 64/341=23(%) </i><br>
+**[USENIX ATC '21]** ASAP: Fast Mobile Application Switch via Adaptive Prepaging   
+Sam Son, Seung Yul Lee, Yunho Jin, <b>Jonghyun Bae</b>, Jinkyu Jeong, Tae Jun Ham, Jae W. Lee, and Hongil Yoon
+__USENIX Annual Technical Conference (ATC), Virtual, 2021__   
+__Acceptance rate: 64/341=23(%)__
 
 
 <b>[FAST '21]</b>
