@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 ## Bio
 
 Jonghyun Bae ~~is currently~~ was a Ph.D student in the Department of Computer Science
@@ -103,18 +101,23 @@ _Spark Summit East, New York City, New York, February 2016_
 
 ---
 
-## Experience
+## Experiences
 
-<span style="font-weight:600">NAVER Clova AI Research Intern</span><br>
-May 2020 - August 2020<br>
-<span style="font-weight:500">Research on automatically searches for effective augmentation policies</span>
+**NAVER Clova AI Research Intern**   
+_May 2020 - August 2020_   
+Research on automatically searches for effective augmentation policies
 
-<span style="font-weight:600">Google Summer of Code</span><br>
-March 2014 - August 2014<br>
-<span style="font-weight:500">Improving the R-interactive-Graphics-via-HTml (RIGHT) Package</span>
+**Google Summer of Code**   
+_March 2014 - August 2014_   
+Improving the R-interactive-Graphics-via-HTml (RIGHT) Package
 
 ---
 
 ## Activities
 
 ### Talks
+
+**Korea Computer Congress 2021** (Jeju, Korea)   
+_Invited talk: Top Conference session_   
+FlashNeuron: SSD-Enabled Large-Batch Training of Very Deep Neural Networks
+
