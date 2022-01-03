@@ -19,13 +19,13 @@ flash, solid state drive (SSD), and user-level storage systems.
 
 ### Seoul National University   
 Ph.D. in Computer Science and Engineering   
-__Sep 2017 -- Feb 2022__   
+_Sep 2017 -- Feb 2022_   
 **Advisor**: [Jae W. Lee](https://iamjaelee.github.io/www/)   
 **Dissertation**: A Large-Batch, High-Throughput Training System for Deep Neural Networks
 
 ###Sungkyunkwan University   
 M.S. in Electronic, Electrical and Computer Engineering   
-__Mar 2015--Aug 2017__   
+_Mar 2015--Aug 2017_   
 **Advisor**: [Jae W. Lee](https://iamjaelee.github.io/www/) and [Jaehyuk Choi](https://sites.google.com/view/eemix/people#h.p_ID_53)    
 **Dissertation**: Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks
 
@@ -39,8 +39,8 @@ B.S. in Semiconductor Systems Engineering (Mar 2009--Feb 2015)
 ### International Conferences
 **[USENIX ATC '21]** ASAP: Fast Mobile Application Switch via Adaptive Prepaging   
 Sam Son, Seung Yul Lee, Yunho Jin, <b>Jonghyun Bae</b>, Jinkyu Jeong, Tae Jun Ham, Jae W. Lee, and Hongil Yoon
-__USENIX Annual Technical Conference (ATC), Virtual, 2021__   
-__Acceptance rate: 64/341=23(%)__
+_USENIX Annual Technical Conference (ATC), Virtual, 2021_   
+_Acceptance rate: 64/341=23(%)_
 
 
 <b>[FAST '21]</b>
