@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-### Bio
+## Bio
 
 Jonghyun Bae ~~is currently~~ was a Ph.D student in the Department of Computer Science
 and Engineering at Seoul National University. He received an M.S in Electronic,
@@ -14,21 +14,24 @@ interests include high-performance training of DNNs and high-throughput big data
 
 ---
 
-### Education
+## Education
 
-*Seoul National University*   
+**Seoul National University**   
 Ph.D. in Computer Science and Engineering (Sep 2017 -- Feb 2022)   
-Advisor: [Jae W. Lee](https://iamjaelee.github.io/www/)   
-Dissertation: A Large-Batch, High-Throughput Training System for Deep Neural Networks
+**Advisor**: [Jae W. Lee](https://iamjaelee.github.io/www/)   
+**Dissertation**: A Large-Batch, High-Throughput Training System for Deep Neural Networks
 
-*Sungkyunkwan University*   
+**Sungkyunkwan University**   
 M.S. in Electronic, Electrical and Computer Engineering (Mar 2015--Aug 2017)   
-Advisor: [Jae W. Lee](https://iamjaelee.github.io/www/) and [Jaehyuk Choi](https://sites.google.com/view/eemix/people#h.p_ID_53)
-Dissertation: Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks
+**Advisor**: [Jae W. Lee](https://iamjaelee.github.io/www/) and [Jaehyuk Choi](https://sites.google.com/view/eemix/people#h.p_ID_53)
+**Dissertation**: Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks
 
-<span style="font-weight:500">Sungkyunkwan University</span> - B.S. in Semiconductor Systems Engineering (Mar 2009--Feb 2015)
+**Sungkyunkwan University**   
+B.S. in Semiconductor Systems Engineering (Mar 2009--Feb 2015)
 
 ---
+
+## Publications
 
 ### International Conferences
 <b>[USENIX ATC '21]</b>
@@ -110,7 +113,7 @@ Hakbeom Jang, <b>Jonghyun Bae</b>, Tae Jun Ham, and Jae W. Lee<br>
 
 ---
 
-### Experience
+## Experience
 
 <span style="font-weight:600">NAVER Clova AI Research Intern</span><br>
 May 2020 - August 2020<br>
@@ -120,3 +123,8 @@ May 2020 - August 2020<br>
 March 2014 - August 2014<br>
 <span style="font-weight:500">Improving the R-interactive-Graphics-via-HTml (RIGHT) Package</span>
 
+---
+
+## Activities
+
+### Talks
