@@ -16,11 +16,15 @@ interests include high-performance training of DNNs and high-throughput big data
 
 ### Education
 
-<span style="font-weight:500">Seoul National University</span> - Ph.D. in Computer Science and Engineering (Sep 2017 -- Feb 2022)
-Advisor: [Jae W. Lee](https://iamjaelee.github.io/www/)
-Dissertation: asdf
+*Seoul National University*   
+Ph.D. in Computer Science and Engineering (Sep 2017 -- Feb 2022)   
+Advisor: [Jae W. Lee](https://iamjaelee.github.io/www/)   
+Dissertation: A Large-Batch, High-Throughput Training System for Deep Neural Networks
 
-<span style="font-weight:500">Sungkyunkwan University</span> - M.S. in Electronic, Electrical and Computer Engineering (Mar 2015--Aug 2017)
+*Sungkyunkwan University*   
+M.S. in Electronic, Electrical and Computer Engineering (Mar 2015--Aug 2017)   
+Advisor: [Jae W. Lee](https://iamjaelee.github.io/www/) and [Jaehyuk Choi](https://sites.google.com/view/eemix/people#h.p_ID_53)
+Dissertation: Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks
 
 <span style="font-weight:500">Sungkyunkwan University</span> - B.S. in Semiconductor Systems Engineering (Mar 2009--Feb 2015)
 
