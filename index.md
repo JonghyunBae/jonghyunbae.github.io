@@ -35,39 +35,39 @@ B.S. in Semiconductor Systems Engineering (_Mar 2009--Feb 2015_)
 ## Publications
 
 ### International Conferences
-**[USENIX ATC '21]** ASAP: Fast Mobile Application Switch via Adaptive Prepaging   
+**[USENIX ATC '21]** [ASAP: Fast Mobile Application Switch via Adaptive Prepaging](/data/atc21/atc21_asap.pdf) [[Slides]](/data/atc21/atc21_asap_slides.pdf)   
 Sam Son, Seung Yul Lee, Yunho Jin, **Jonghyun Bae**, Jinkyu Jeong, Tae Jun Ham, Jae W. Lee, and Hongil Yoon   
 _USENIX Annual Technical Conference (ATC), Virtual, 2021_   
 _Acceptance rate: 64/341=23(%)_
 
 
-**[FAST '21]** Behemoth: A Flash-centric Training Accelerator for Extreme-scale DNNs   
+**[FAST '21]** [Behemoth: A Flash-centric Training Accelerator for Extreme-scale DNNs](https://www.usenix.org/system/files/fast21-kim.pdf) [[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/fast21_slides_kim.pdf)   
 Shine Kim\*, Yunho Jin\*, Gina Sohn, **Jonghyun Bae**, Tae Jun Ham, and Jae W. Lee   
 _USENIX Conference on File and Storage Technologies (FAST), Virtual, 2021_   
 _Acceptance rate: 28/130=21(%)_   
 \* Equal Contributions
 
 
-**[FAST '21]** FlashNeuron: SSD-Enabled Large-Batch Training of Very Deep Neural Networks   
+**[FAST '21]** [FlashNeuron: SSD-Enabled Large-Batch Training of Very Deep Neural Networks](https://www.usenix.org/system/files/fast21-bae.pdf)[[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/fast21_slides_bae.pdf)   
 **Jonghyun Bae**, Jongsung Lee, Yunho Jin, Sam Son, Shine Kim, Hakbeom Jang, Tae Jun Ham, and Jae W. Lee   
 _USENIX Conference on File and Storage Technologies (FAST), Virtual, 2021_   
 _Acceptance rate: 28/130=21(%)_
 
 
-**[HPCA '21]** Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling   
+**[HPCA '21]** [Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling]() [[Slides]](https://drive.google.com/file/d/1IC0ZYffSTV1EjR5JsI4Spo9iOAkWk7O8/view?usp=sharing)   
 Young H. Oh, Seonghak Kim, Yunho Jin, Sam Son, **Jonghyun Bae**, Jongsung Lee, Yeonhong Park, Dong Uk Kim, Tae Jun Ham, and Jae W. Lee   
 _IEEE International Symposium on High Performance Computer Architecture (HPCA), Seoul, Korea, 2021_   
 _Acceptance rate: 63/258=24(%)_
 
 
-**[ISCA '20]** A Case for Hardware-based Demand Paging   
+**[ISCA '20]** [A Case for Hardware-based Demand Paging](https://drive.google.com/file/d/1E76n25cPulkGuKSifai6cdkHXcQnb45P/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1PYQxRFilPFN0vCQjrHPPp6sZco4IT5gI/view?usp=sharing)   
 Gyusun Lee\*, Wenjing Jin\*, Wonsuk Song, Jeonghun Gong, **Jonghyun Bae**, Tae Jun Ham, Jae W. Lee, and Jinkyu Jeong   
 _ACM/IEEE International Symposium on Computer Architecture (ISCA), Valencia, Spain, 2020_   
 _Acceptance rate: 77/428=18(%)_   
 \* Equal Contributions
 
 
-**[USENIX ATC '19]** Practical Erase Suspension for Modern Low-latency SSD   
+**[USENIX ATC '19]** [Practical Erase Suspension for Modern Low-latency SSD](https://www.usenix.org/system/files/atc19-kim-shine.pdf) [[PPTX]] (https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_kim-shine.pdf)  
 Shine Kim, **Jonghyun Bae**, Hakbeom Jang, Wenjing Jin, Jeonghun Gong, Seungyeon Lee, Tae Jun Ham, and Jae W. Lee   
 _USENIX Annual Technical Conference (ATC), Renton, WA, 2019_   
 
