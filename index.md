@@ -64,7 +64,7 @@ _ACM/IEEE International Symposium on Computer Architecture (ISCA), Valencia, Spa
 
 **[USENIX ATC '19]** Shine Kim, **Jonghyun Bae**, Hakbeom Jang, Wenjing Jin, Jeonghun Gong, Seungyeon Lee, Tae Jun Ham, and Jae W. Lee,
 "[Practical Erase Suspension for Modern Low-latency SSD](/data/atc19/atc19_erase.pdf)",
-_USENIX Annual Technical Conference (ATC), Renton, WA, 2019_. [[Slides]] (/data/atc19/atc19_erase_slides.pdf)  
+_USENIX Annual Technical Conference (ATC), Renton, WA, 2019_. [[Slides]](/data/atc19/atc19_erase_slides.pdf)  
 
 
 **[BigData '17]** **Jonghyun Bae**\*, Hakbeom Jang\*, Wenjing Jin, Jun Heo, Jaeyoung Jang, Joo-Young Hwang, Sangyeun Cho, and Jae W. Lee,
@@ -92,9 +92,9 @@ _IEICE Transactions on Information and Systems, 2018_.
 
 
 ### International Workshops
-**[Spark Summit East '16]** ggplot2.SparkR: Rebooting ggplot2 for Scalable Big Data Visualization   
-**Jonghyun Bae**, Sangoh Jeong, Wenjing Jin, and Jae W. Lee   
-_Spark Summit East, New York City, New York, February 2016_
+**[Spark Summit East '16]** **Jonghyun Bae**, Sangoh Jeong, Wenjing Jin, and Jae W. Lee,
+"ggplot2.SparkR: Rebooting ggplot2 for Scalable Big Data Visualization",
+_Spark Summit East, New York City, NY, February 2016_. [[Slides]](/data/sparksummit16/sparksummit16_ggplot2.pdf)
 
 ---
 
