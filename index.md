@@ -35,64 +35,59 @@ B.S. in Semiconductor Systems Engineering (_Mar 2009--Feb 2015_)
 ## Publications
 
 ### International Conferences
-**[USENIX ATC '21]** [ASAP: Fast Mobile Application Switch via Adaptive Prepaging](/data/atc21/atc21_asap.pdf) [[Slides]](/data/atc21/atc21_asap_slides.pdf)   
-Sam Son, Seung Yul Lee, Yunho Jin, **Jonghyun Bae**, Jinkyu Jeong, Tae Jun Ham, Jae W. Lee, and Hongil Yoon   
-_USENIX Annual Technical Conference (ATC), Virtual, 2021_   
-_Acceptance rate: 64/341=23(%)_
+**[USENIX ATC '21]** Sam Son, Seung Yul Lee, Yunho Jin, **Jonghyun Bae**, Jinkyu Jeong, Tae Jun Ham, Jae W. Lee, and Hongil Yoon,
+"[ASAP: Fast Mobile Application Switch via Adaptive Prepaging](/data/atc21/atc21_asap.pdf)",
+_USENIX Annual Technical Conference (ATC), Virtual, 2021_. [[Slides]](/data/atc21/atc21_asap_slides.pdf)
 
 
-**[FAST '21]** [Behemoth: A Flash-centric Training Accelerator for Extreme-scale DNNs](https://www.usenix.org/system/files/fast21-kim.pdf) [[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/fast21_slides_kim.pdf)   
-Shine Kim\*, Yunho Jin\*, Gina Sohn, **Jonghyun Bae**, Tae Jun Ham, and Jae W. Lee   
-_USENIX Conference on File and Storage Technologies (FAST), Virtual, 2021_   
-_Acceptance rate: 28/130=21(%)_   
+**[FAST '21]** Shine Kim\*, Yunho Jin\*, Gina Sohn, **Jonghyun Bae**, Tae Jun Ham, and Jae W. Lee,
+"[Behemoth: A Flash-centric Training Accelerator for Extreme-scale DNNs](/data/fast21/fast21_behemoth.pdf)",
+_USENIX Conference on File and Storage Technologies (FAST), Virtual, 2021_. [[Slides]](/data/fast21/fast21_behemoth_slides.pdf)
 \* Equal Contributions
 
 
-**[FAST '21]** [FlashNeuron: SSD-Enabled Large-Batch Training of Very Deep Neural Networks](https://www.usenix.org/system/files/fast21-bae.pdf)[[Slides]](https://www.usenix.org/sites/default/files/conference/protected-files/fast21_slides_bae.pdf)   
-**Jonghyun Bae**, Jongsung Lee, Yunho Jin, Sam Son, Shine Kim, Hakbeom Jang, Tae Jun Ham, and Jae W. Lee   
-_USENIX Conference on File and Storage Technologies (FAST), Virtual, 2021_   
-_Acceptance rate: 28/130=21(%)_
+**[FAST '21]** **Jonghyun Bae**, Jongsung Lee, Yunho Jin, Sam Son, Shine Kim, Hakbeom Jang, Tae Jun Ham, and Jae W. Lee,
+"[FlashNeuron: SSD-Enabled Large-Batch Training of Very Deep Neural Networks](/data/fast21/fast21_flashneuron.pdf)",
+_USENIX Conference on File and Storage Technologies (FAST), Virtual, 2021_. [[Slides]](/data/fast21/fast21_flashneuron_slides.pdf)
 
 
-**[HPCA '21]** [Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling]() [[Slides]](https://drive.google.com/file/d/1IC0ZYffSTV1EjR5JsI4Spo9iOAkWk7O8/view?usp=sharing)   
-Young H. Oh, Seonghak Kim, Yunho Jin, Sam Son, **Jonghyun Bae**, Jongsung Lee, Yeonhong Park, Dong Uk Kim, Tae Jun Ham, and Jae W. Lee   
-_IEEE International Symposium on High Performance Computer Architecture (HPCA), Seoul, Korea, 2021_   
-_Acceptance rate: 63/258=24(%)_
+**[HPCA '21]** Young H. Oh, Seonghak Kim, Yunho Jin, Sam Son, **Jonghyun Bae**, Jongsung Lee, Yeonhong Park, Dong Uk Kim, Tae Jun Ham, and Jae W. Lee,
+"[Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling](/data/hpca21/hpca21_layerweaver.pdf)",
+_IEEE International Symposium on High Performance Computer Architecture (HPCA), Seoul, Korea, 2021_. [[Slides]](/data/hpca21/hpca21_layerweaver_slides.pdf)
 
 
-**[ISCA '20]** [A Case for Hardware-based Demand Paging](https://drive.google.com/file/d/1E76n25cPulkGuKSifai6cdkHXcQnb45P/view?usp=sharing) [[Slides]](https://drive.google.com/file/d/1PYQxRFilPFN0vCQjrHPPp6sZco4IT5gI/view?usp=sharing)   
-Gyusun Lee\*, Wenjing Jin\*, Wonsuk Song, Jeonghun Gong, **Jonghyun Bae**, Tae Jun Ham, Jae W. Lee, and Jinkyu Jeong   
-_ACM/IEEE International Symposium on Computer Architecture (ISCA), Valencia, Spain, 2020_   
-_Acceptance rate: 77/428=18(%)_   
+**[ISCA '20]** Gyusun Lee\*, Wenjing Jin\*, Wonsuk Song, Jeonghun Gong, **Jonghyun Bae**, Tae Jun Ham, Jae W. Lee, and Jinkyu Jeong,
+"[A Case for Hardware-based Demand Paging](/data/isca20/isca20_hsdp.pdf)",
+_ACM/IEEE International Symposium on Computer Architecture (ISCA), Valencia, Spain, 2020_. [[Slides]](/data/isca20/isca20_hsdp_slides.pdf)
 \* Equal Contributions
 
 
-**[USENIX ATC '19]** [Practical Erase Suspension for Modern Low-latency SSD](https://www.usenix.org/system/files/atc19-kim-shine.pdf) [[PPTX]] (https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_kim-shine.pdf)  
-Shine Kim, **Jonghyun Bae**, Hakbeom Jang, Wenjing Jin, Jeonghun Gong, Seungyeon Lee, Tae Jun Ham, and Jae W. Lee   
-_USENIX Annual Technical Conference (ATC), Renton, WA, 2019_   
+**[USENIX ATC '19]** Shine Kim, **Jonghyun Bae**, Hakbeom Jang, Wenjing Jin, Jeonghun Gong, Seungyeon Lee, Tae Jun Ham, and Jae W. Lee,
+"[Practical Erase Suspension for Modern Low-latency SSD](/data/atc19/atc19_erase.pdf)",
+_USENIX Annual Technical Conference (ATC), Renton, WA, 2019_. [[Slides]] (/data/atc19/atc19_erase_slides.pdf)  
 
 
-**[BigData '17]** Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks   
-**Jonghyun Bae**\*, Hakbeom Jang\*, Wenjing Jin, Jun Heo, Jaeyoung Jang, Joo-Young Hwang, Sangyeun Cho, and Jae W. Lee   
-_IEEE International Conference on Big Data (BigData), Boston, MA, December 2017_   
+**[BigData '17]** **Jonghyun Bae**\*, Hakbeom Jang\*, Wenjing Jin, Jun Heo, Jaeyoung Jang, Joo-Young Hwang, Sangyeun Cho, and Jae W. Lee,
+"[Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks](/data/bigdata17/bigdata17_wasp.pdf)",
+_IEEE International Conference on Big Data (BigData), Boston, MA, December 2017_. [[Slides]](/data/bigdata17/bigdata17_wasp_slides.pdf)
 \* Equal Contributions
 
 
-**[UseR!-Poster '14]** RIGHT: An HTML Canvas and JavaScript-based Interactive Data Visualization Package for Linked Graphics   
-ChungHa Sung, **JongHyun Bae**, SangGi Hong, TaeJoon Song, Jae W. Lee, and Junghoon Lee   
-_The R User Conference, Los Angeles, CA, July 2014_
+**[UseR!-Poster '14]** ChungHa Sung, **JongHyun Bae**, SangGi Hong, TaeJoon Song, Jae W. Lee, and Junghoon Lee,
+"RIGHT: An HTML Canvas and JavaScript-based Interactive Data Visualization Package for Linked Graphics",
+_The R User Conference, Los Angeles, CA, July 2014_. [[Poster]](/data/user_poster14/user14_right.pdf)
 
 
 
 ### International Journals
-**[IEEE Micro '19]** SSDStreamer: Specializing I/O Stack for Large-Scale Machine Learning   
-**Jonghyun Bae**, Hakbeom Jang, Jeonghun Gong, Wenjing Jin, Shine Kim, Jaeyoung Jang, Tae Jun Ham, Jinkyu Jeong, and Jae W. Lee   
-_IEEE Micro, Sept/Oct 2019_
+**[IEEE Micro '19]** **Jonghyun Bae**, Hakbeom Jang, Jeonghun Gong, Wenjing Jin, Shine Kim, Jaeyoung Jang, Tae Jun Ham, Jinkyu Jeong, and Jae W. Lee,
+"[SSDStreamer: Specializing I/O Stack for Large-Scale Machine Learning](/data/ieeemicro19/ieeemicro19_ssdstreamer.pdf)",
+_IEEE Micro, Sept/Oct 2019_.
 
 
-**[IEICE TIS '19]** Eager Memory Managerment for In-Memory Data Analytics   
-Hakbeom Jang, **Jonghyun Bae**, Tae Jun Ham, and Jae W. Lee   
-_IEICE Transactions on Information and Systems, 2018_
+**[IEICE TIS '19]** Hakbeom Jang, **Jonghyun Bae**, Tae Jun Ham, and Jae W. Lee,
+"[Eager Memory Managerment for In-Memory Data Analytics](/data/ieicetis19/ieicetis19_eager.pdf)",
+_IEICE Transactions on Information and Systems, 2018_.
 
 
 
