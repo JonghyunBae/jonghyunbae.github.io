@@ -4,15 +4,16 @@ layout: default
 
 ## Bio
 
-Jonghyun Bae is currently a postdoc researcher at AI institute (AIIS) in Seoul
-National University. Before joining AIIS, Jonghyun Bae was a Ph.D student in
-the Department of Computer Science and Engineering at Seoul National University
-as a member of [Architecture and Code Optimization Lab
-(ARC)](http://arc.snu.ac.kr/). He received an M.S in Electronic, Electrical,
-and Computer Engineering in 2017, and B.S in Semiconductor Systems Engineering
-in 2015 -- both from Sungkyunkwan University. His current research interests
-include high-performance DNN training, high-performance big data analytics,
-NAND flash solid state drive (SSD), and user-level storage systems.
+Jonghyun Bae is currently a postdoc researcher at [AI institute
+(AIIS)](https://aiis.snu.ac.kr) in Seoul National University. Before joining
+AIIS, Jonghyun Bae was a Ph.D student in the Department of Computer Science and
+Engineering at Seoul National University as a member of [Architecture and Code
+Optimization Lab (ARC)](http://arc.snu.ac.kr/). He received an M.S in
+Electronic, Electrical, and Computer Engineering in 2017, and B.S in
+Semiconductor Systems Engineering in 2015 -- both from Sungkyunkwan University.
+His current research interests include high-performance DNN training,
+high-performance big data analytics, NAND flash solid state drive (SSD), and
+user-level storage systems.
 
 ---
 
@@ -74,11 +75,6 @@ _IEEE International Conference on Big Data (BigData), Boston, MA, December 2017_
 \* Equal Contributions
 
 
-**[UseR!-Poster '14]** ChungHa Sung, **JongHyun Bae**, SangGi Hong, TaeJoon Song, Jae W. Lee, and Junghoon Lee,
-"RIGHT: An HTML Canvas and JavaScript-based Interactive Data Visualization Package for Linked Graphics",
-_The R User Conference, Los Angeles, CA, July 2014_. [[Poster]](/data/user_poster14/user14_right.pdf)
-
-
 
 ### International Journals
 **[IEEE Micro '19]** **Jonghyun Bae**, Hakbeom Jang, Jeonghun Gong, Wenjing Jin, Shine Kim, Jaeyoung Jang, Tae Jun Ham, Jinkyu Jeong, and Jae W. Lee,
@@ -96,6 +92,10 @@ _IEICE Transactions on Information and Systems, 2018_.
 **[Spark Summit East '16]** **Jonghyun Bae**, Sangoh Jeong, Wenjing Jin, and Jae W. Lee,
 "ggplot2.SparkR: Rebooting ggplot2 for Scalable Big Data Visualization",
 _Spark Summit East, New York City, NY, February 2016_. [[Slides]](/data/sparksummit16/sparksummit16_ggplot2.pdf)
+
+**[UseR!-Poster '14]** ChungHa Sung, **JongHyun Bae**, SangGi Hong, TaeJoon Song, Jae W. Lee, and Junghoon Lee,
+"RIGHT: An HTML Canvas and JavaScript-based Interactive Data Visualization Package for Linked Graphics",
+_The R User Conference, Los Angeles, CA, July 2014_. [[Poster]](/data/user_poster14/user14_right.pdf)
 
 ---
 
