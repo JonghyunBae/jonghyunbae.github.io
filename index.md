@@ -5,7 +5,7 @@ layout: default
 ## Bio
 
 Jonghyun Bae is currently a postdoc researcher at [AI institute
-(AIIS)](https://aiis.snu.ac.kr) in Seoul National University. Before joining
+(AIIS)](https://aiis.snu.ac.kr/eng) in Seoul National University. Before joining
 AIIS, Jonghyun Bae was a Ph.D student in the Department of Computer Science and
 Engineering at Seoul National University as a member of [Architecture and Code
 Optimization Lab (ARC)](http://arc.snu.ac.kr/). He received an M.S in
