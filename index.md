@@ -4,14 +4,15 @@ layout: default
 
 ## Bio
 
-Jonghyun Bae ~~is currently~~ was a Ph.D student in the Department of Computer
-Science and Engineering at Seoul National University as a member of
-[Architecture and Code Optimization Lab (ARC)](http://arc.snu.ac.kr/). He
-received an M.S in Electronic, Electrical, and Computer Engineering in 2017.
-and B.S in Semiconductor Systems Engineering in 2015 -- both from Sungkyunkwan
-University. His current research interests include high-performance DNN
-training, high-performance big data analytics, flash, solid state drive (SSD),
-and user-level storage systems.
+Jonghyun Bae is currently a postdoc researcher at AI institute (AIIS) in Seoul
+National University. Before joining AIIS, Jonghyun Bae was a Ph.D student in
+the Department of Computer Science and Engineering at Seoul National University
+as a member of [Architecture and Code Optimization Lab
+(ARC)](http://arc.snu.ac.kr/). He received an M.S in Electronic, Electrical,
+and Computer Engineering in 2017, and B.S in Semiconductor Systems Engineering
+in 2015 -- both from Sungkyunkwan University. His current research interests
+include high-performance DNN training, high-performance big data analytics,
+NAND flash solid state drive (SSD), and user-level storage systems.
 
 ---
 
