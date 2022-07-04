@@ -37,6 +37,10 @@ B.S. in Semiconductor Systems Engineering (_Mar 2009--Feb 2015_)
 ## Publications
 
 ### International Conferences
+**[ECCV '22]** **Jonghyun Bae**, Woohyeon Baek, Tae Jun Ham, and Jae W. Lee,
+"L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training",
+_European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022_.
+
 **[USENIX ATC '21]** Sam Son, Seung Yul Lee, Yunho Jin, **Jonghyun Bae**, Jinkyu Jeong, Tae Jun Ham, Jae W. Lee, and Hongil Yoon,
 "[ASAP: Fast Mobile Application Switch via Adaptive Prepaging](/data/atc21/atc21_asap.pdf)",
 _USENIX Annual Technical Conference (ATC), Virtual, 2021_. [[Slides]](/data/atc21/atc21_asap_slides.pdf)
