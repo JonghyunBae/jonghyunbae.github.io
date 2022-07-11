@@ -17,6 +17,13 @@ user-level storage systems.
 
 ---
 
+## Current Position
+**AI Institute in Seoul National University (AIIS)** (Seoul, Korea)   
+Postdoctoral researcher (_Mar 2022 -- Present_)   
+**Supervisor**: [Jae W. Lee](https://iamjaelee.github.io/www/)   
+
+---
+
 ## Education
 
 **Seoul National University** (Seoul, Korea)   
