@@ -18,9 +18,10 @@ user-level storage systems.
 ---
 
 ## Current Position
+
 **AI Institute in Seoul National University (AIIS)** (Seoul, Korea)   
 Postdoctoral researcher (_Mar 2022 -- Present_)   
-**Supervisor**: [Jae W. Lee](https://iamjaelee.github.io/www/)   
+**Supervisor**: [Jae W. Lee](https://iamjaelee.github.io/www/)
 
 ---
 
@@ -127,8 +128,8 @@ Improving the R-interactive-Graphics-via-HTml (RIGHT) Package
 ## Activities
 
 ### Talks
-**Korea Electric Power Corporation (KEPCO) Data Science Lab** (Seoul, Korea)
-_Invited talk: Technical seminar_
+**Korea Electric Power Corporation (KEPCO) Data Science Lab** (Seoul, Korea)   
+_Invited talk: Technical seminar_   
 A Large-Batch, High-Throughput Training System for Deep Neural Networks
 
 
