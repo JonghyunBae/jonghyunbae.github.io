@@ -41,6 +41,7 @@ B.S. in Semiconductor Systems Engineering (_Mar 2009--Feb 2015_)
 "L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training",
 _European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022_. (To appear)
 
+
 **[USENIX ATC '21]** Sam Son, Seung Yul Lee, Yunho Jin, **Jonghyun Bae**, Jinkyu Jeong, Tae Jun Ham, Jae W. Lee, and Hongil Yoon,
 "[ASAP: Fast Mobile Application Switch via Adaptive Prepaging](/data/atc21/atc21_asap.pdf)",
 _USENIX Annual Technical Conference (ATC), Virtual, 2021_. [[Slides]](/data/atc21/atc21_asap_slides.pdf)
@@ -109,6 +110,7 @@ _The R User Conference, Los Angeles, CA, July 2014_. [[Poster]](/data/user_poste
 _May 2020 - August 2020_   
 Research on automatically searches for effective augmentation policies
 
+
 **Google Summer of Code**   
 _March 2014 - August 2014_   
 Improving the R-interactive-Graphics-via-HTml (RIGHT) Package
@@ -118,6 +120,10 @@ Improving the R-interactive-Graphics-via-HTml (RIGHT) Package
 ## Activities
 
 ### Talks
+**Korea Electric Power Corporation (KEPCO) Data Science Lab** (Seoul, Korea)
+_Invited talk: Technical seminar_
+A Large-Batch, High-Throughput Training System for Deep Neural Networks
+
 
 **Korea Computer Congress 2021** (Jeju, Korea)   
 _Invited talk: Top Conference session_   
