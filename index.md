@@ -120,7 +120,7 @@ _The R User Conference, Los Angeles, CA, July 2014_. [[Poster]](/data/user_poste
 **AI Institute at Seoul National University (AIIS)**  (Seoul, Korea)   
 _April 2022 -- August 2022_   
 **Position**: Postdoctoral researcher   
-**Supervisor**: [Jae W. Lee](https://iamjaelee.github.io/www/)
+**Supervisor**: [Jae W. Lee](https://iamjaelee.github.io/www/)   
 Leveraging high-performance storage system for ML/AI performance optimization
 
 
