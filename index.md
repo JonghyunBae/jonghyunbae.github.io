@@ -4,10 +4,10 @@ layout: default
 
 ## Bio
 
-From October 1st, 2022, I will join [Performance and Algorithm Research
-(PAR)](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/) group
-under the lead of Dr. Leonid Oliker in Lawrence Berkeley National Lab as a
-postdoctoral researcher.  Before joining LBNL, Jonghyun Bae was a postdoc
+From October 1st, 2022, Jonghyun Bae will join [Performance and Algorithm
+Research (PAR)](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/)
+group under the lead of Dr. Leonid Oliker in Lawrence Berkeley National Lab as
+a postdoctoral researcher. Before joining LBNL, Jonghyun Bae was a postdoctoral
 researcher at [AI Institute at SNU (AIIS)](https://aiis.snu.ac.kr/eng) in Seoul
 National University.
 
