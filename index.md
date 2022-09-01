@@ -4,12 +4,18 @@ layout: default
 
 ## Bio
 
-Jonghyun Bae is currently a postdoc researcher at [AI institute
-(AIIS)](https://aiis.snu.ac.kr/eng) in Seoul National University. Before joining
-AIIS, Jonghyun Bae was a Ph.D student in the Department of Computer Science and
-Engineering at Seoul National University as a member of [Architecture and Code
-Optimization Lab (ARC)](http://arc.snu.ac.kr/). He received an M.S in
-Electronic, Electrical, and Computer Engineering in 2017, and B.S in
+From October 1st, 2022, I will join [Performance and Algorithm Research
+(PAR)](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/) group
+under the lead of Dr. Leonid Oliker in Lawrence Berkeley National Lab as a
+postdoctoral researcher.  Before joining LBNL, Jonghyun Bae was a postdoc
+researcher at [AI Institute at SNU (AIIS)](https://aiis.snu.ac.kr/eng) in Seoul
+National University.
+
+Jonghyun Bae completed his Ph.D in Computer Science and Engineering at Seoul
+National University as a member of [Architecture and Code Optimization Lab
+(ARC)](http://arc.snu.ac.kr/) under the guidance of [Prof. Jae W.
+Lee](https://iamjaelee.github.io/www/). Before cominng to SNU, He received an
+M.S in Electronic, Electrical, and Computer Engineering in 2017, and B.S in
 Semiconductor Systems Engineering in 2015 -- both from Sungkyunkwan University.
 His current research interests include high-performance DNN training,
 high-performance big data analytics, NAND flash solid state drive (SSD), and
@@ -19,9 +25,6 @@ user-level storage systems.
 
 ## Current Position
 
-**AI Institute in Seoul National University (AIIS)** (Seoul, Korea)   
-Postdoctoral researcher (_Mar 2022 -- Present_)   
-**Supervisor**: [Jae W. Lee](https://iamjaelee.github.io/www/)
 
 ---
 
@@ -114,8 +117,17 @@ _The R User Conference, Los Angeles, CA, July 2014_. [[Poster]](/data/user_poste
 
 ## Experiences
 
-**NAVER Clova AI Research Intern**   
+**AI Institute at Seoul National University (AIIS)**  (Seoul, Korea)   
+_April 2022 -- August 2022_   
+**Position**: Postdoctoral researcher   
+**Supervisor**: [Jae W. Lee](https://iamjaelee.github.io/www/)
+Leveraging high-performance storage system for ML/AI performance optimization
+
+
+**NAVER Clova AI Research Intern** (Seongnam, Korea)   
 _May 2020 - August 2020_   
+**Position**: Research intern   
+**Collaborator**: Ji-Hoon Kim   
 Research on automatically searches for effective augmentation policies
 
 
