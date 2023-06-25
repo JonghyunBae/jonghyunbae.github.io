@@ -53,7 +53,7 @@ B.S. in Semiconductor Systems Engineering (_Mar 2009--Feb 2015_)
 ### International Conferences
 **[ECCV '22]** **Jonghyun Bae**, Woohyeon Baek, Tae Jun Ham, and Jae W. Lee,
 "L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training",
-_European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022_. (To appear)
+_European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022_.
 
 
 **[USENIX ATC '21]** Sam Son, Seung Yul Lee, Yunho Jin, **Jonghyun Bae**, Jinkyu Jeong, Tae Jun Ham, Jae W. Lee, and Hongil Yoon,
@@ -63,7 +63,7 @@ _USENIX Annual Technical Conference (ATC), Virtual, 2021_. [[Slides]](/data/atc2
 
 **[FAST '21]** Shine Kim\*, Yunho Jin\*, Gina Sohn, **Jonghyun Bae**, Tae Jun Ham, and Jae W. Lee,
 "[Behemoth: A Flash-centric Training Accelerator for Extreme-scale DNNs](/data/fast21/fast21_behemoth.pdf)",
-_USENIX Conference on File and Storage Technologies (FAST), Virtual, 2021_. [[Slides]](/data/fast21/fast21_behemoth_slides.pdf)
+_USENIX Conference on File and Storage Technologies (FAST), Virtual, 2021_. [[Slides]](/data/fast21/fast21_behemoth_slides.pdf)   
 \* Equal Contributions
 
 
@@ -79,7 +79,7 @@ _IEEE International Symposium on High Performance Computer Architecture (HPCA), 
 
 **[ISCA '20]** Gyusun Lee\*, Wenjing Jin\*, Wonsuk Song, Jeonghun Gong, **Jonghyun Bae**, Tae Jun Ham, Jae W. Lee, and Jinkyu Jeong,
 "[A Case for Hardware-based Demand Paging](/data/isca20/isca20_hsdp.pdf)",
-_ACM/IEEE International Symposium on Computer Architecture (ISCA), Valencia, Spain, 2020_. [[Slides]](/data/isca20/isca20_hsdp_slides.pdf)
+_ACM/IEEE International Symposium on Computer Architecture (ISCA), Valencia, Spain, 2020_. [[Slides]](/data/isca20/isca20_hsdp_slides.pdf)   
 \* Equal Contributions
 
 
@@ -90,7 +90,7 @@ _USENIX Annual Technical Conference (ATC), Renton, WA, 2019_. [[Slides]](/data/a
 
 **[BigData '17]** **Jonghyun Bae**\*, Hakbeom Jang\*, Wenjing Jin, Jun Heo, Jaeyoung Jang, Joo-Young Hwang, Sangyeun Cho, and Jae W. Lee,
 "[Jointly Optimizing Task Granularity and Concurrency for In-Memory MapReduce Frameworks](/data/bigdata17/bigdata17_wasp.pdf)",
-_IEEE International Conference on Big Data (BigData), Boston, MA, December 2017_. [[Slides]](/data/bigdata17/bigdata17_wasp_slides.pdf)
+_IEEE International Conference on Big Data (BigData), Boston, MA, December 2017_. [[Slides]](/data/bigdata17/bigdata17_wasp_slides.pdf)   
 \* Equal Contributions
 
 
@@ -108,9 +108,16 @@ _IEICE Transactions on Information and Systems, 2018_.
 
 
 ### International Workshops
+**[APSys '23]** Woohyeon Baek\*, **Jonghyun Bae**\*, Donghyun Lee, Hyunwoong Bae, Yeonhong Park, and Jae W. Lee,
+"Liquid: Mix-and-Match Multiple Image Formats to Balance DNN Training Pipeline",
+_The 14th ACM SIGOPS Asia-Pacific Workshop on Systems 2023_. (To appear)   
+\* Equal Contributions
+
+
 **[Spark Summit East '16]** **Jonghyun Bae**, Sangoh Jeong, Wenjing Jin, and Jae W. Lee,
 "ggplot2.SparkR: Rebooting ggplot2 for Scalable Big Data Visualization",
 _Spark Summit East, New York City, NY, February 2016_. [[Slides]](/data/sparksummit16/sparksummit16_ggplot2.pdf)
+
 
 **[UseR!-Poster '14]** ChungHa Sung, **JongHyun Bae**, SangGi Hong, TaeJoon Song, Jae W. Lee, and Junghoon Lee,
 "RIGHT: An HTML Canvas and JavaScript-based Interactive Data Visualization Package for Linked Graphics",
