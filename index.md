@@ -52,8 +52,8 @@ B.S. in Semiconductor Systems Engineering (_Mar 2009--Feb 2015_)
 
 ### International Conferences
 **[ECCV '22]** **Jonghyun Bae**, Woohyeon Baek, Tae Jun Ham, and Jae W. Lee,
-"L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training",
-_European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022_.
+"[L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training](/data/eccv22/eccv22_l3.pdf)",
+_European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022_. [[Supplementary]](/data/eccv22/eccv22_l3_supp.pdf)
 
 
 **[USENIX ATC '21]** Sam Son, Seung Yul Lee, Yunho Jin, **Jonghyun Bae**, Jinkyu Jeong, Tae Jun Ham, Jae W. Lee, and Hongil Yoon,
