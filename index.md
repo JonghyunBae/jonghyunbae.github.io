@@ -108,9 +108,14 @@ _IEICE Transactions on Information and Systems, 2018_.
 
 
 ### International Workshops
+**[MLG-HPCE '23]** Jong Youl Choi, Massimiliano Lupo Pasini, Pei Zhang, Kshitij Mehta, Frank Liu, **Jonghyun Bae**, and Khaled Ibrahim,
+"DDStore: Distributed Data Store for Scalable Training of Graph Neural Networks on Large Atomistic Modeling Datasets",
+_Machine Learning with Graphs in High Performance Computing Environments, Denver, CO, Nov 2023_.   
+
+
 **[APSys '23]** Woohyeon Baek\*, **Jonghyun Bae**\*, Donghyun Lee, Hyunwoong Bae, Yeonhong Park, and Jae W. Lee,
 "Liquid: Mix-and-Match Multiple Image Formats to Balance DNN Training Pipeline",
-_The 14th ACM SIGOPS Asia-Pacific Workshop on Systems 2023_. (To appear)   
+_The 14th ACM SIGOPS Asia-Pacific Workshop on Systems, Seoul, Korea, Aug 2023_.   
 \* Equal Contributions
 
 
