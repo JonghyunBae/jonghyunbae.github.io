@@ -4,11 +4,13 @@ layout: default
 
 ## Bio
 
-Jonghyun Bae is a posdoctoral researcher at [Performance and Algorithm Research
+Jonghyun Bae is currently research scientist at Google working on database
+efficiency. Before joining Google, Jonghyun Bae was a postdoctoral researcher
+at [Performance and Algorithm Research
 (PAR)](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/) group
-under the lead of Dr. Leonid Oliker in Lawrence Berkeley National Lab. Before
-joining LBNL, Jonghyun Bae was a postdoctoral researcher at [AI Institute at
-SNU (AIIS)](https://aiis.snu.ac.kr/eng) in Seoul National University.
+under the lead of Dr. Leonid Oliker in Lawrence Berkeley National Laboratory,
+and [AI Institute at SNU (AIIS)](https://aiis.snu.ac.kr/eng) in Seoul National
+University.
 
 Jonghyun Bae completed his Ph.D in Computer Science and Engineering at Seoul
 National University as a member of [Architecture and Code Optimization Lab
@@ -16,18 +18,16 @@ National University as a member of [Architecture and Code Optimization Lab
 Lee](https://iamjaelee.github.io/www/). Before cominng to SNU, He received an
 M.S in Electronic, Electrical, and Computer Engineering in 2017, and B.S in
 Semiconductor Systems Engineering in 2015 -- both from Sungkyunkwan University.
-His current research interests include high-performance DNN training,
-high-performance big data analytics, NAND flash solid state drive (SSD), and
-user-level storage systems.
+His current research interests include system for ML and AI, HPC computing, and
+big data analytics.
 
 ---
 
 ## Current Position
-**Lawrence Berkeley National Lab**  (CA, USA)   
-_October 2022 -- Current_   
-**Position**: Postdoctoral researcher   
-**Supervisor**: [Leonid Oliker](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/members/group-lead/leonid-oliker/)   
-
+**Google**  (Sunnyvale, USA)   
+_April 2024 -- Present_   
+**Position**: Research scientist   
+**Supervisor**: Jichuan Chang
 
 ---
 
@@ -108,9 +108,13 @@ _IEICE Transactions on Information and Systems, 2018_.
 
 
 ### International Workshops
+**[IPDPSW ’24]** **Jonghyun Bae**, Jong Youl Choi, Massimiliano Lupo Pasini, Kshitij Mehta, and Khaled Ibrahim,
+"MDLoader: A Hybrid Model‑driven Data Loader for Distributed Deep Neural Networks Training",
+_IEEE International Parallel and Distributed Processing Symposium Workshops, San Francisco, CA, May 2024_ (To appear).
+
 **[MLG-HPCE '23]** Jong Youl Choi, Massimiliano Lupo Pasini, Pei Zhang, Kshitij Mehta, Frank Liu, **Jonghyun Bae**, and Khaled Ibrahim,
 "DDStore: Distributed Data Store for Scalable Training of Graph Neural Networks on Large Atomistic Modeling Datasets",
-_Machine Learning with Graphs in High Performance Computing Environments, Denver, CO, Nov 2023_.   
+_Workshop on Machine Learning with Graphs in High Performance Computing Environments (Be held in conjunction with SC ’23), Denver, CO, Nov 2023_.   
 
 
 **[APSys '23]** Woohyeon Baek\*, **Jonghyun Bae**\*, Donghyun Lee, Hyunwoong Bae, Yeonhong Park, and Jae W. Lee,
@@ -131,6 +135,12 @@ _The R User Conference, Los Angeles, CA, July 2014_. [[Poster]](/data/user_poste
 ---
 
 ## Experiences
+**Lawrence Berkeley National Laboratory**  (CA, USA)   
+_October 2022 -- March 2024_   
+**Position**: Postdoctoral researcher   
+**Supervisor**: [Leonid Oliker](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/members/group-lead/leonid-oliker/)   
+Analyzing and optimizing performance of scientific applications on HPC environment
+
 
 **AI Institute at Seoul National University (AIIS)**  (Seoul, Korea)   
 _April 2022 -- August 2022_   
