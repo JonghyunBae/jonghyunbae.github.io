@@ -4,7 +4,7 @@ layout: default
 
 ## Bio
 
-Jonghyun Bae is currently research scientist at Google working on database
+Jonghyun Bae is currently visinting faculty researcher at Google working on database
 efficiency. Before joining Google, Jonghyun Bae was a postdoctoral researcher
 at [Performance and Algorithm Research
 (PAR)](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/) group
@@ -108,9 +108,14 @@ _IEICE Transactions on Information and Systems, 2018_.
 
 
 ### International Workshops
+**[MLG-HPCE ’24]** **Jonghyun Bae**, Jong Youl Choi, Massimiliano Lupo Pasini, Kshitij Mehta, Pei Zhang, and Khaled Ibrahim,
+"MDLoader: A Hybrid Model-Driven Data Loader for Distributed Graph Neural Network Training",
+_Workshop on Machine Learning with Graphs in High Performance Computing Environments (Be held in conjunction with SC ’24), Atlanta, GA, Nov 2024_.
+
+
 **[IPDPSW ’24]** **Jonghyun Bae**, Jong Youl Choi, Massimiliano Lupo Pasini, Kshitij Mehta, and Khaled Ibrahim,
 "MDLoader: A Hybrid Model‑driven Data Loader for Distributed Deep Neural Networks Training",
-_IEEE International Parallel and Distributed Processing Symposium Workshops, San Francisco, CA, May 2024_ (To appear).
+_IEEE International Parallel and Distributed Processing Symposium Workshops, San Francisco, CA, May 2024_.
 
 **[MLG-HPCE '23]** Jong Youl Choi, Massimiliano Lupo Pasini, Pei Zhang, Kshitij Mehta, Frank Liu, **Jonghyun Bae**, and Khaled Ibrahim,
 "DDStore: Distributed Data Store for Scalable Training of Graph Neural Networks on Large Atomistic Modeling Datasets",
