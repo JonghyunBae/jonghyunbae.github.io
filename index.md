@@ -26,7 +26,7 @@ big data analytics.
 ## Current Position
 **Google**  (Sunnyvale, USA)   
 _April 2024 -- Present_   
-**Position**: Research scientist   
+**Position**: Visiting faculty researcher   
 **Supervisor**: Jichuan Chang
 
 ---
@@ -51,6 +51,11 @@ B.S. in Semiconductor Systems Engineering (_Mar 2009--Feb 2015_)
 ## Publications
 
 ### International Conferences
+**[SAC '25]** Jongsung Lee, Sam Son, **Jonghyun Bae**, Yunho Jin, Tae Jun Ham and Jae W. Lee,
+"SkipLSM: Fast Retrieval of Hot Key-Value Pairs on LSM Tree",
+_ACM/SIGAPP Symposium On Applied Computing (SAC), Sicily, Italy, 2025 (To appear)_.
+
+
 **[ECCV '22]** **Jonghyun Bae**, Woohyeon Baek, Tae Jun Ham, and Jae W. Lee,
 "[L3: Accelerator-Friendly Lossless Image Format for High-Resolution, High-Throughput DNN Training](/data/eccv22/eccv22_l3.pdf)",
 _European Conference on Computer Vision (ECCV), Tel-Aviv, Israel, 2022_. [[Supplementary]](/data/eccv22/eccv22_l3_supp.pdf)
