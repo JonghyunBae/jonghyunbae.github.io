@@ -53,7 +53,7 @@ B.S. in Semiconductor Systems Engineering (_Mar 2009--Feb 2015_)
 ### International Conferences
 **[SAC '25]** Jongsung Lee, Sam Son, **Jonghyun Bae**, Yunho Jin, Tae Jun Ham and Jae W. Lee,
 "SkipLSM: Fast Retrieval of Hot Key-Value Pairs on LSM Tree",
-_ACM/SIGAPP Symposium On Applied Computing (SAC), Sicily, Italy, 2025 (To appear)_.
+_ACM/SIGAPP Symposium On Applied Computing (SAC), Sicily, Italy, 2025_.
 
 
 **[ECCV '22]** **Jonghyun Bae**, Woohyeon Baek, Tae Jun Ham, and Jae W. Lee,
@@ -101,6 +101,11 @@ _IEEE International Conference on Big Data (BigData), Boston, MA, December 2017_
 
 
 ### International Journals
+**[Journal of Supercomputing]** Massimiliano Lupo Pasini, Jong Youl Choi, Kshitij Mehta, Pei Zhang, David Rogers, **Jonghyun Bae**, Khaled Z Ibrahim, Ashwin M Aji, Karl W Schulz, Jordà Polo, Prasanna Balaprakash,
+"Scalable training of trustworthy and energy-efficient predictive graph foundation models for atomistic materials modeling: a case study with HydraGNN",
+_The Journal of Supercomputing, 2025_.
+
+
 **[IEEE Micro '19]** **Jonghyun Bae**, Hakbeom Jang, Jeonghun Gong, Wenjing Jin, Shine Kim, Jaeyoung Jang, Tae Jun Ham, Jinkyu Jeong, and Jae W. Lee,
 "[SSDStreamer: Specializing I/O Stack for Large-Scale Machine Learning](/data/ieeemicro19/ieeemicro19_ssdstreamer.pdf)",
 _IEEE Micro, Sept/Oct 2019_.
