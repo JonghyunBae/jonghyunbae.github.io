@@ -4,13 +4,14 @@ layout: default
 
 ## Bio
 
-Jonghyun Bae is currently visinting faculty researcher at Google working on database
-efficiency. Before joining Google, Jonghyun Bae was a postdoctoral researcher
-at [Performance and Algorithm Research
-(PAR)](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/) group
-under the lead of Dr. Leonid Oliker in Lawrence Berkeley National Laboratory,
-and [AI Institute at SNU (AIIS)](https://aiis.snu.ac.kr/eng) in Seoul National
-University.
+Jonghyun Bae is currently software engineer at HyperAccel working on collective
+communication library (CCL) design and optimization for HyperAccel LPU. Before
+joining Hyperaccel, Jonghyun Bae was a visiting research at Google, and a
+postdoctoral researcher at [Performance and Algorithm Research
+(PAR)](https://amcr.lbl.gov/departments/computer-science-department/ppan/ppan-team/)
+group under the lead of Dr. Leonid Oliker in Lawrence Berkeley National
+Laboratory, USA, and [AI Institute at SNU (AIIS)](https://aiis.snu.ac.kr/eng)
+in Seoul National University, Korea.
 
 Jonghyun Bae completed his Ph.D in Computer Science and Engineering at Seoul
 National University as a member of [Architecture and Code Optimization Lab
@@ -24,10 +25,9 @@ big data analytics.
 ---
 
 ## Current Position
-**Google**  (Sunnyvale, USA)   
-_April 2024 -- Present_   
-**Position**: Visiting faculty researcher   
-**Supervisor**: Jichuan Chang
+**HyperAccel**  (Seoul, Korea)   
+_Mar 2026 -- Present_   
+**Position**: Software Engineer   
 
 ---
 
@@ -150,10 +150,17 @@ _The R User Conference, Los Angeles, CA, July 2014_. [[Poster]](/data/user_poste
 ---
 
 ## Experiences
+**Google**  (CA, USA)   
+_April 2024 -- Jan 2026_   
+**Position**: Visiting researcher   
+**Supervisor**: [Tae Jun Ham](https://www.linkedin.com/in/taejunham/)   
+SW performance efficiency and codesign for Google database
+
+
 **Lawrence Berkeley National Laboratory**  (CA, USA)   
 _October 2022 -- March 2024_   
 **Position**: Postdoctoral researcher   
-**Supervisor**: [Leonid Oliker](https://crd.lbl.gov/divisions/amcr/computer-science-amcr/par/members/group-lead/leonid-oliker/)   
+**Supervisor**: [Leonid Oliker](https://amcr.lbl.gov/profile/loliker/)   
 Analyzing and optimizing performance of scientific applications on HPC environment
 
 
